@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Breast_Autoplan_SW_sa", "Breast_Autoplan_SW_sa.csproj", "{569FDF6E-2228-4F27-815B-F4C86FC4C196}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{569FDF6E-2228-4F27-815B-F4C86FC4C196}.Debug|x64.ActiveCfg = Debug|x64
+		{569FDF6E-2228-4F27-815B-F4C86FC4C196}.Debug|x64.Build.0 = Debug|x64
+		{569FDF6E-2228-4F27-815B-F4C86FC4C196}.Release|x64.ActiveCfg = Release|x64
+		{569FDF6E-2228-4F27-815B-F4C86FC4C196}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9393C7A-DF52-4072-A2A6-2B1AB8A705FA}
+	EndGlobalSection
+EndGlobal
